@@ -17,7 +17,7 @@ build/
 
 # OS-specific files
 .DS_Store
-Thumbs.db
+Thumbs.db 
 
 # Editor-specific files
 .idea/
@@ -25,3 +25,5 @@ Thumbs.db
 *.swp
 
 .zip
+
+
